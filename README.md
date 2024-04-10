@@ -1,7 +1,7 @@
 ### Olá, Eu sou o Rhyan Victor 👋
 
-![Rhyan Victor GitHub stats](https://github-readme-stats.vercel.app/api?username=RhyanVictor&show_icons=true&theme=transparent&locale=pt-br)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RhyanVictor&hide_progress=true&theme=transparent&locale=pt-br)
+![Rhyan Victor GitHub stats](https://github-readme-stats.vercel.app/api?username=DevcRV&show_icons=true&theme=transparent&locale=pt-br)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevcRV&hide_progress=true&theme=transparent&locale=pt-br)
 
 ##
 
@@ -20,7 +20,7 @@
 </div>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RhyanVictor/RhyanVictor/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RhyanVictor/RhyanVictor/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/RhyanVictor/RhyanVictor/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DevcRV/DevcRV/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DevcRV/DevcRV/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/DevcRV/DevcRV/output/github-contribution-grid-snake.svg">
 </picture>
